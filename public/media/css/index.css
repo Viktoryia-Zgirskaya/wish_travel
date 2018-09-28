@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#header{
+	height: 260px;
+	background: url(../img/leaves.png) ;
+}
+#logotext{
+	float: right;
+	text-shadow: 1px 1px 1px gold;
+	padding-right: 10px;
+}
+#logo{
+	float: left;
+	width: 260px;
+	height: 260px;
+}
+#menu{
+	display: flex;
+	width: 100%;
+	margin: 0 auto;
+}
+#menu a{
+	flex: 1;
+	display: black ;
+	text-decoration: none;
+	background: lightgreen;
+	padding: 10px;
+	text-align: center;
+	border-right: 1px solid #ccc;
+
+}
+#menu a:hover{
+	background: gold;
+	color: white;
+}
+.footer{
+	text-align: center;
+	padding-top: 90px;
+	padding-bottom: 100px;
+	background: #E7FFE7;
+}

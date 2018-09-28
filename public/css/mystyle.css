@@ -1,0 +1,23 @@
+body {
+   background-image: url("../img/b1.jpg");
+   background-color: #E5E5E5;
+}
+.center{
+	border-style: solid;
+  border-width: medium;
+	background-color: white;
+	margin: 30px 200px;
+}
+.center2{
+	border-style: solid;
+  border-width: medium;
+	background-color: white;
+	margin: 30px 300px;
+}
+.tit{
+	text-align:center;
+	margin-top:20px;
+}
+.crd{
+	display: inline-block;
+}
