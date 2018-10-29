@@ -39,7 +39,7 @@
             <a class="nav-link" href="{{asset('tours')}}">Tours</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="{{asset('mytours')}}">My tours</a>
+            <a class="nav-link disabled" href="{{asset('categories')}}">My tours</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="{{asset('contact')}}">Contacts</a>
